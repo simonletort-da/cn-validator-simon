@@ -1,6 +1,8 @@
 # https://dev.network.canton.global/validator_operator/validator_compose.html#deployment
 
+echo "###################################"
 echo "Deploying Canton validator"
+echo "###################################"
 
 export IMAGE_TAG=0.3.18
 echo "IMAGE_TAG="${IMAGE_TAG}
