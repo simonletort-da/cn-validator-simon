@@ -4,3 +4,6 @@
 
 # Ignore splice-node
 /splice-node
+
+# Ignore secrets
+/secrets
